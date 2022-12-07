@@ -4,9 +4,43 @@ Nirvana is a 3D pseudo-realistic game
 about escaping a confusing space of afterlife
 by solving puzzles and finding memory pieces.
 
-## Trailer
+## Game Trailer
 
 [![Link to Trailer](https://img.youtube.com/vi/adYjZbpEzuc/0.jpg)](https://youtu.be/adYjZbpEzuc)
+
+## Game Overview
+
+Nirvana is a first-person puzzle-solving and adventure PC game.
+In the game, the player acts as the protagonist - Zapot,
+and the goal is to collect all memory pieces to escape the confusing afterlife space. 
+The player is first trapped in the pseudo-realistic world (e.g. in a residential house),
+where the player has to find the memory pieces and find the way out.
+But on the way, to collect more memories,
+the player also has to enter realms of buddhist reincarnation
+through certain unexpected portals in the pseudo-realistic world.
+When the player enters any of the realms,
+the player will have to survive and run to the end of the realm,
+in order to successfully collect a memory at the end of the realm.
+A series of puzzles is also involved in entering the realms
+and finding the way out in the afterlife space.
+
+Inside the pseudo-realistic world in the afterlife space,
+it requires the player to explore and pay attention to details in the environment for puzzle solving,
+while having the immersive experience of a dream-like disorienting directional space
+(such as rotated rooms, objects against gravity).
+The puzzle solving could be as complex as finding several clues to unlock one door
+or solving one puzzle to enter another puzzle.
+Inside the realms,
+it also requires the player to run on a mis-angled path as fast as possible
+while jumping, getting dizzy, and trying to balance across narrow winding roads.
+The paths in the realms will provide more difficulty
+by having monsters of the realm attacking the player
+and road types that hinders the movement of the player,
+such as sluggish mud road, slippy ice road, etc.
+
+By the end of the game,
+the memories will be pieced together and become a full narrative story
+that explains why the victim dies and enters the afterlife.
 
 ## Installation
 
