@@ -36,7 +36,7 @@ except for the following:
 - `Levels` contains all the scenes in our game.
   The scenes involved in our prototype are
   house, realm, and four different orientations of rotated room.
-- `Movies` contains the game start up clip
+- `Movies` contains the game start up clip.
 - `UMG` contains the custom user interfaces made for the game.
 
 ## Known Issues
@@ -54,7 +54,7 @@ there are still some flaws and minor issues existing in the game:
   - Click event is triggered by double click except for the first click
     - There is a [thread](https://forums.unrealengine.com/t/an-lmb-event-is-only-triggered-with-a-double-click/357429)
       discussing a similar issue,
-      but the solution did not work for us.
+      but the solution did not work for us
 - Noticeable lag when transition between scenes
   - Between *House* and *Rotated Room*
   - Between *House* and *Realm*
