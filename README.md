@@ -4,6 +4,10 @@ Nirvana is a 3D pseudo-realistic game
 about escaping a confusing space of afterlife
 by solving puzzles and finding memory pieces.
 
+## Trailer
+
+[![Link to Trailer](https://img.youtube.com/vi/adYjZbpEzuc/0.jpg)](https://youtu.be/adYjZbpEzuc)
+
 ## Installation
 
 This game is developed using [Unreal Engine](https://www.unrealengine.com/) 5.0.3.
@@ -74,4 +78,4 @@ there are still some flaws and minor issues existing in the game:
 ## Acknowledgement
 
 I sincerely appreciate the incredible amount of effort my team put in for this project.
-Thank you Cherry Kwong, Dong Sun, Sarah Xu!
+Thank you Cherry Kwong, Dong Sun, [Sarah Xu](https://github.com/SarahWeizhen)!
