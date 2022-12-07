@@ -11,17 +11,29 @@ Please make sure you have the correct version installed
 before importing the game project.
 To download Unreal Engine,
 please follow the [instructions](https://www.unrealengine.com/download).
+After successfully opening the project
+and compiling the shaders in Unreal Engine,
+you can build the project to experience our prototype.
+
+Alternatively, you may download a PC version of our prototype in 
+[Releases](https://github.com/diceyecid/Nirvana/releases/tag/v0.1.0).
 
 ## Usage
 
-After successfully opening the project
-and compiling the shaders,
-you can build the project to experience our prototype.
 If you are not using a 16:9 display,
 please do not play in full screen
 as some UIs are not optimized for other aspect ratios.
 You may escape out of full screen
 by using `Alt + Enter` or `F11`.
+
+The control of the game works as follows:
+- `Mouse Movement` for character camera movement
+- `W`, `A`, `S`, `D` for character movement
+- `Space` for character jump
+- `C` for switching perspectives (between 1st person and 3rd person)
+- `E` for picking up prop
+- `F` for interacting with object
+- `1`, `2`, `3`, `4`, `5`, `6`, `7`, `8`, `9`, and `Mouse Wheel` for switching focus of prop bar
 
 ## File Structure
 
